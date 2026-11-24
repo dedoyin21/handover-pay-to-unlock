@@ -56,8 +56,4 @@ npm run build
 
 ## Demo evidence
 
-<!-- Add before submitting: link a short screen recording or insert screenshots in order. -->
-
-Screenshots / recording: _add here_
-
-Suggested order: seller form filled and offer created, client preview with locked files, "try to open without paying" rejected, payment success with receipt, delivered files with hashes matching.
+[Watch the demo recording](https://drive.google.com/file/d/1-6vmYhBo-HiI1iaOm7YhUrqrAzcEK2Y4/view?usp=sharing).
